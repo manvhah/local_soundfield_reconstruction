@@ -2,7 +2,7 @@
 
 Repo to generate results for the paper
 
-[![Spatial reconstruction of sound fields using local and data-driven functions(https://pubs.aip.org/asa/jasa/article/150/6/4417/994379/Spatial-reconstruction-of-sound-fields-using-local)](https://pubs.aip.org/asa/jasa/article/150/6/4417/994379/Spatial-reconstruction-of-sound-fields-using-local)
+![Spatial reconstruction of sound fields using local and data-driven functions](https://doi.org/10.1121/10.0008975)
 
 ## 1) download data
 
