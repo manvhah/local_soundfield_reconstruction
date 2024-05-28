@@ -1,0 +1,10 @@
+scikit-learn
+scipy
+numpy
+matplotlib
+h5py
+wheel
+cvxpy
+pebble
+ipython
+pickleshare

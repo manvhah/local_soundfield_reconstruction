@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: sfr
+Version: 0.1
+Summary: sound field reconstruction tools
+Author: Manuel Hahmann
+Author-email: manuel.hahmann@proton.me
+Keywords: sound,field,reconstruction,acoustics
