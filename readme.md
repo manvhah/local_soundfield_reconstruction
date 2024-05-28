@@ -2,7 +2,8 @@
 
 Repo to generate results for the paper
 
-![Spatial reconstruction of sound fields using local and data-driven functions](https://doi.org/10.1121/10.0008975)
+![Spatial reconstruction of sound fields using local and data-driven functions 
+https://doi.org/10.1121/10.0008975 ](https://doi.org/10.1121/10.0008975)
 
 ## 1) download data
 
